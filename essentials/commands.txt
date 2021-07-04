@@ -1,0 +1,2 @@
+1. ls -a: shows all the hidden files also (like .config files)
+2. 
